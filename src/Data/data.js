@@ -103,7 +103,7 @@ const FOOTER_DATA = {
   CONTACT_DETAILS: {
     HEADING: "Contact Me",
     ADDRESS: "Kerugoya, Professional Plaza. P O Box 1079-10300, KERUGOYA",
-    MOBILE: "+254 717953381",
+    MOBILE: "+254717953381, +254756470039",
     EMAIL: "michaeldunga1@gmail.com"
   },
   SUBSCRIBE_NEWSLETTER: "Subscribe newsletter",
