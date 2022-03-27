@@ -61,15 +61,15 @@ const TESTIMONIAL_DATA = {
     {
       DESCRIPTION:
         "Michael has made a huge difference to our business with his good work and knowledge of SEO and business to business marketing techniques. Our search engine rankings are better than ever and we are getting more people contacting us thanks to Michael’s knowledge and hard work.",
-      IMAGE_URL: "images/user1.jpg",
-      NAME: "Steve Sirawa",
+      IMAGE_URL: "images/sirawa.jpg",
+      NAME: "Jared Sirawa",
       DESIGNATION: "Co-founder at Harpcon Security Services"
     },
     {
       DESCRIPTION:
         "Michael has provided us with a comprehensive, fast and well planned digital marketing strategy that has yielded great results in terms of content, SEO, Social Media. He is a pleasure to work with, as well as being fast to respond and adapt to the needs of your brand.",
-      IMAGE_URL: "images/user2.jpg",
-      NAME: "James Nyaga",
+      IMAGE_URL: "images/chege.jpg",
+      NAME: "Steven Chege",
       DESIGNATION: "Co-founder at Kagumo Stores"
     }
   ]
