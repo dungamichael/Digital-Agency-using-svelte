@@ -12,7 +12,7 @@ const BANNER_DATA = {
   DECRIPTION:
     "I'm a front-end engineer from Kerugoya, Kenya. I design, create and support websites and applications for clients and for fun. I love using modern technology to create exceptional user experiences, and always strive to create high quality products.",
   TUTORIAL_URL:
-    "https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/programmatic/google-digital-academy/",
+    "https://www.youtube.com/channel/UC7sqqNBDhIKDs3-d_e7GpCg",
   WATCH_TUTORIAL: "Watch Tutorials"
 };
 const SERVICE_DATA = {
