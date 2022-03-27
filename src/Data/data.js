@@ -8,9 +8,9 @@ const NAVBAR_DATA = [
   { id: 5, url: "#footer", label: "Contacts" }
 ];
 const BANNER_DATA = {
-  HEADING: "I create beautiful and fast websites",
+  HEADING: "Hi, I'm Michael",
   DECRIPTION:
-    "Your business deserves a great performing website",
+    "I'm a front-end engineer from Kerugoya, Kenya. I design, create and support websites and applications for clients and for fun. I love using modern technology to create exceptional user experiences, and always strive to create high quality products.",
   TUTORIAL_URL:
     "https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/programmatic/google-digital-academy/",
   WATCH_TUTORIAL: "Watch Tutorials"
