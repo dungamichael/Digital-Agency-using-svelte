@@ -42,7 +42,7 @@ const SERVICE_DATA = {
 
 const ABOUT_DATA = {
   HEADING: "What to expect",
-  TITLE: "Experience the difference",
+  TITLE: "Elevate your online presence with...",
   IMAGE_URL: "images/network.png",
   WHY_CHOOSE_US_LIST: [
     "Cost-Effective Digital Marketing than Others.",
