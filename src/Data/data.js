@@ -10,7 +10,7 @@ const NAVBAR_DATA = [
 const BANNER_DATA = {
   HEADING: "I create beautiful and fast websites",
   DECRIPTION:
-    "Nixalar can help you skyrocket the ROI of your marketing campaign without having to spend tons of money or time to assemble an in-house team.",
+    "Your business deserves a great performing website",
   TUTORIAL_URL:
     "https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/programmatic/google-digital-academy/",
   WATCH_TUTORIAL: "Watch Tutorials"
