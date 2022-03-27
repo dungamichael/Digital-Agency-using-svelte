@@ -41,18 +41,18 @@ const SERVICE_DATA = {
 };
 
 const ABOUT_DATA = {
-  HEADING: "Why choose us?",
-  TITLE: "Why we're different",
+  HEADING: "What to expect",
+  TITLE: "Experience the difference",
   IMAGE_URL: "images/network.png",
   WHY_CHOOSE_US_LIST: [
-    "We provides Cost-Effective Digital Marketing than Others.",
+    "Cost-Effective Digital Marketing than Others.",
     "High customer statisfaction and experience.",
     "Marketing efficiency and quick time to value.",
     "Clear & transparent fee structure.",
-    "We provides Marketing automation which is an integral platform that ties all of your digital marketing together.",
+    "Marketing automation which is an integral platform that ties all of your digital marketing together.",
     "A strong desire to establish long lasting business partnerships.",
-    "Provide digital marketing to mobile consumer.",
-    "We provides wide range to services in reasonable prices"
+    "Digital marketing to mobile consumer.",
+    "Reasonable prices"
   ]
 };
 const TESTIMONIAL_DATA = {
@@ -60,23 +60,23 @@ const TESTIMONIAL_DATA = {
   TESTIMONIAL_LIST: [
     {
       DESCRIPTION:
-        "Nixalar has made a huge difference to our business with his good work and knowledge of SEO and business to business marketing techniques. Our search engine rankings are better than ever and we are getting more people contacting us thanks to Jomer’s knowledge and hard work.",
+        "Michael has made a huge difference to our business with his good work and knowledge of SEO and business to business marketing techniques. Our search engine rankings are better than ever and we are getting more people contacting us thanks to Jomer’s knowledge and hard work.",
       IMAGE_URL: "images/user1.jpg",
-      NAME: "Julia hawkins",
-      DESIGNATION: "Co-founder at ABC"
+      NAME: "Steve Sirawa",
+      DESIGNATION: "Co-founder at Harpcon"
     },
     {
       DESCRIPTION:
-        "Nixalar and his team have provided us with a comprehensive, fast and well planned digital marketing strategy that has yielded great results in terms of content, SEO, Social Media. His team are a pleasure to work with, as well as being fast to respond and adapt to the needs of your brand.",
+        "Michael has provided us with a comprehensive, fast and well planned digital marketing strategy that has yielded great results in terms of content, SEO, Social Media. His team are a pleasure to work with, as well as being fast to respond and adapt to the needs of your brand.",
       IMAGE_URL: "images/user2.jpg",
-      NAME: "John Smith",
-      DESIGNATION: "Co-founder at xyz"
+      NAME: "Alphonse Otieno",
+      DESIGNATION: "Co-founder at Gillys"
     }
   ]
 };
 
 const SOCIAL_DATA = {
-  HEADING: "Find us on social media",
+  HEADING: "Find me on social media",
   IMAGES_LIST: [
     "images/facebook-icon.png",
     "images/instagram-icon.png",
@@ -89,12 +89,12 @@ const SOCIAL_DATA = {
 
 const FOOTER_DATA = {
   DESCRIPTION:
-    "We are typically focused on result-based maketing in the digital world. Also, we evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
+    "I'm typically focused on result-based maketing in the digital world. Also, we evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
   CONTACT_DETAILS: {
-    HEADING: "Contact us",
-    ADDRESS: "La trobe street docklands, Melbourne",
-    MOBILE: "+1 61234567890",
-    EMAIL: "nixalar@gmail.com"
+    HEADING: "Contact Me",
+    ADDRESS: "Kerugoya, Professional Plaza. P O Box 1079-10300, KERUGOYA",
+    MOBILE: "+254 717953381",
+    EMAIL: "michaeldunga1@gmail.com"
   },
   SUBSCRIBE_NEWSLETTER: "Subscribe newsletter",
   SUBSCRIBE: "Subscribe"
