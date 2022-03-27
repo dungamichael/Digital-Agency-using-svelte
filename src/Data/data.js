@@ -16,7 +16,7 @@ const BANNER_DATA = {
   WATCH_TUTORIAL: "Watch Tutorials"
 };
 const SERVICE_DATA = {
-  HEADING: "Our Services",
+  HEADING: "What I Do",
   ALL_SERVICES: "All Services",
   SERVICE_LIST: [
     {
