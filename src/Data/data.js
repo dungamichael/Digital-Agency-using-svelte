@@ -1,9 +1,9 @@
-const HEADER = "Nixalar";
+const HEADER = "Michael Dunga";
 
 const NAVBAR_DATA = [
   { id: 1, url: "/", label: "Home" },
   { id: 2, url: "#services", label: "Services" },
-  { id: 3, url: "#about-us", label: "About us" },
+  { id: 3, url: "#about-us", label: "About Me" },
   { id: 4, url: "#testimonials", label: "Testimonials" },
   { id: 5, url: "#footer", label: "Contacts" }
 ];
@@ -60,17 +60,17 @@ const TESTIMONIAL_DATA = {
   TESTIMONIAL_LIST: [
     {
       DESCRIPTION:
-        "Michael has made a huge difference to our business with his good work and knowledge of SEO and business to business marketing techniques. Our search engine rankings are better than ever and we are getting more people contacting us thanks to Jomer’s knowledge and hard work.",
+        "Michael has made a huge difference to our business with his good work and knowledge of SEO and business to business marketing techniques. Our search engine rankings are better than ever and we are getting more people contacting us thanks to Michael’s knowledge and hard work.",
       IMAGE_URL: "images/user1.jpg",
       NAME: "Steve Sirawa",
-      DESIGNATION: "Co-founder at Harpcon"
+      DESIGNATION: "Co-founder at Harpcon Security Services"
     },
     {
       DESCRIPTION:
-        "Michael has provided us with a comprehensive, fast and well planned digital marketing strategy that has yielded great results in terms of content, SEO, Social Media. His team are a pleasure to work with, as well as being fast to respond and adapt to the needs of your brand.",
+        "Michael has provided us with a comprehensive, fast and well planned digital marketing strategy that has yielded great results in terms of content, SEO, Social Media. He is a pleasure to work with, as well as being fast to respond and adapt to the needs of your brand.",
       IMAGE_URL: "images/user2.jpg",
-      NAME: "Alphonse Otieno",
-      DESIGNATION: "Co-founder at Gillys"
+      NAME: "James Nyaga",
+      DESIGNATION: "Co-founder at Kagumo Stores"
     }
   ]
 };
@@ -89,7 +89,7 @@ const SOCIAL_DATA = {
 
 const FOOTER_DATA = {
   DESCRIPTION:
-    "I'm typically focused on result-based maketing in the digital world. Also, we evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
+    "I'm typically focused on result-based maketing in the digital world. Also, I evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
   CONTACT_DETAILS: {
     HEADING: "Contact Me",
     ADDRESS: "Kerugoya, Professional Plaza. P O Box 1079-10300, KERUGOYA",
