@@ -78,12 +78,22 @@ const TESTIMONIAL_DATA = {
 const SOCIAL_DATA = {
   HEADING: "Find me on social media",
   IMAGES_LIST: [
-    "images/facebook-icon.png",
-    "images/instagram-icon.png",
-    "images/whatsapp-icon.png",
-    "images/twitter-icon.png",
-    "images/linkedin-icon.png",
-    "images/snapchat-icon.png"
+    {
+    IMAGE:"images/linkedin-icon.png",
+    LINK: "https://www.linkedin.com/in/odhiambo-web-dev-46838b103/",
+    },
+    {
+    IMAGE:"images/twitter-icon.png",
+    LINK: "https://twitter.com/dunga_michael",
+    },
+    {
+    IMAGE:"images/facebook-icon.png",
+    LINK: "https://web.facebook.com/profile.php?id=100009332626513",
+    },
+    {
+    IMAGE:"images/instagram-icon.png",
+    LINK: "https://www.instagram.com/odhiambo_dunga/",
+    },
   ]
 };
 
