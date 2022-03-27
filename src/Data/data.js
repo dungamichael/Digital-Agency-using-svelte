@@ -8,7 +8,7 @@ const NAVBAR_DATA = [
   { id: 5, url: "#footer", label: "Contacts" }
 ];
 const BANNER_DATA = {
-  HEADING: "Go digital with nixalar",
+  HEADING: "I create beautiful and fast websites",
   DECRIPTION:
     "Nixalar can help you skyrocket the ROI of your marketing campaign without having to spend tons of money or time to assemble an in-house team.",
   TUTORIAL_URL:
