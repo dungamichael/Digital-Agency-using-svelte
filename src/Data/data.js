@@ -42,7 +42,7 @@ const SERVICE_DATA = {
 
 const ABOUT_DATA = {
   HEADING: "What to expect",
-  TITLE: "Elevate your online presence with...",
+  TITLE: "Efective online presence through...",
   IMAGE_URL: "images/network.png",
   WHY_CHOOSE_US_LIST: [
     "Cost-Effective Digital Marketing than Others.",
@@ -70,7 +70,7 @@ const TESTIMONIAL_DATA = {
         "Michael has provided us with a comprehensive, fast and well planned digital marketing strategy that has yielded great results in terms of content, SEO, Social Media. He is a pleasure to work with, as well as being fast to respond and adapt to the needs of your brand.",
       IMAGE_URL: "images/chege.jpg",
       NAME: "Steven Chege",
-      DESIGNATION: "Co-founder at Kagumo Stores"
+      DESIGNATION: "Co-founder at Kagumo Stores and Substation"
     }
   ]
 };
