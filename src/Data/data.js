@@ -45,14 +45,13 @@ const ABOUT_DATA = {
   TITLE: "Efective online presence through...",
   IMAGE_URL: "images/network.png",
   WHY_CHOOSE_US_LIST: [
-    "Cost-Effective Digital Marketing than Others.",
-    "High customer statisfaction and experience.",
+    "Cost-Effective Digital Marketing.",
+    "High statisfaction and experience.",
     "Marketing efficiency and quick time to value.",
-    "Clear & transparent fee structure.",
+    "Clear & transparent, and reasonable pricing.",
     "Marketing automation which is an integral platform that ties all of your digital marketing together.",
-    "A strong desire to establish long lasting business partnerships.",
+    "Long lasting business partnerships.",
     "Digital marketing to mobile consumer.",
-    "Reasonable prices"
   ]
 };
 const TESTIMONIAL_DATA = {
